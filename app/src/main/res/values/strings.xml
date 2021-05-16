@@ -11,4 +11,5 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_feed">Feed</string>
+    <string name="author_avatar_content_description">Author avatar</string>
 </resources>
